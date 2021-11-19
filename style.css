@@ -21,17 +21,17 @@ body{
 .mode {
     float:right;
     margin-right: 20px;
-    
+    margin-top: 20px;
+    /* background-color: rgb(249, 242, 255); */
 }
 .change {
     cursor: pointer;
     border: 1px solid #555;
     border-radius: 40%;
     width: 20px;
-    /* text-align: center; */
     padding: 5px;
     margin-left: 8px;
-    /* background-color: rgb(243, 225, 225); */
+    
 }
 .dark{
     background-color: rgb(43, 40, 40);
