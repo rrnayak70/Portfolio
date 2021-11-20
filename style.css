@@ -62,7 +62,6 @@ p{
     color: white;
     font-weight: 700;
     align-items: center;
-    
 }
 
 section{
@@ -118,6 +117,7 @@ section{
         margin-left: 10%;
         padding-top: 5%;
         float: left;
+        
 }
 .coloum-two{
     margin-top: 70px;
@@ -126,8 +126,8 @@ section{
 
 .four-section{
    
-    background-image: url("images/images.jpeg");
-    background-repeat: no-repeat;
+   
+    background-color: rgb(221, 255, 255);
     background-position: center;
     height: 180px;
     width: 80%;
